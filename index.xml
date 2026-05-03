@@ -6,16 +6,64 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Gnomes</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Gnomes</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Gnomes</guid>
+    <description><![CDATA[ Gnomes are a ubiquitous and highly assimilated race in Rathoria, found within nearly every society and people group across the continent. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:51 GMT</pubDate>
+  </item><item>
+    <title>Planar Touched</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Planar-Touched</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Planar-Touched</guid>
+    <description><![CDATA[ Tieflings and Aasimar represent the rare physical manifestations of planar influence in Rathoria. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Halflings</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Halflings</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Halflings</guid>
+    <description><![CDATA[ Halflings in Rathoria are defined by their connection to the land, split between pastoral agriculturalists and deep-woodland guardians. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Humans</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Humans</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Humans</guid>
+    <description><![CDATA[ Humans are the most diverse race in Rathoria, both in culture and location. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Half-Elves</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Half-Elves</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Half-Elves</guid>
+    <description><![CDATA[ Despite the extreme difficulty of integrating into Elven society, Half-elves are more prevalent across Rathoria than demographic expectations would suggest. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Goliaths</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Goliaths</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Goliaths</guid>
+    <description><![CDATA[ Goliaths are a nomadic and physically formidable race inhabiting the highest reaches of the continent. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Elves</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Elves</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Elves</guid>
+    <description><![CDATA[ The Elves are a sequestered and isolationist race, serving as the primary custodians of arcane knowledge in Rathoria. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Dwarves</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Dwarves</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Dwarves</guid>
+    <description><![CDATA[ Dwarves are predictable most of them living in Caverns and cities built long before any mortal being remembers practicing traditions held for even longer than that. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
+    <title>Dragonborn</title>
+    <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Dragonborn</link>
+    <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Races/Dragonborn</guid>
+    <description><![CDATA[ The Dragonborn of Rathoria are a localized and stable society, distinguished by their geographic concentration and the presence of innate magical abilities. ]]></description>
+    <pubDate>Sun, 03 May 2026 21:58:45 GMT</pubDate>
+  </item><item>
     <title>Test_Lore</title>
     <link>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Test_Lore</link>
     <guid>https://quartz.jzhao.xyz/01_Lore_and_Mechanics/Test_Lore</guid>
     <description><![CDATA[ Test File This is a test file for the Quartz wiki pipeline. ]]></description>
-    <pubDate>Sun, 03 May 2026 21:55:36 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Rathoria</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Welcome to the public wiki for Rathoria. Select a document to begin reading. ]]></description>
     <pubDate>Sun, 03 May 2026 21:55:36 GMT</pubDate>
   </item>
     </channel>
